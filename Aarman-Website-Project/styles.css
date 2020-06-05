@@ -1,0 +1,35 @@
+
+div {
+    background-color: beige;
+    width: 1000px;
+    margin: auto;
+    padding: 25px 50px;
+}
+
+button {
+    padding: 5px 30px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+body {
+    background-image: url(images/dollar-sign.jpg);
+    padding: 50px 100px;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p {
+    font-size: 17px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+a {
+    color: black;
+}
